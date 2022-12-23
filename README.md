@@ -86,7 +86,7 @@ Step 3: Customize the axis labels using `LabelTemplate` property of the Chart ax
 
 ## Output:
 
-![Binding CSV data to the WPF Charts](https://user-images.githubusercontent.com/61832185/209123493-97c5a17e-db8a-47cd-a652-1aefe36faf87.png)
+![Customize chart axis labels in the WPF Chart](https://user-images.githubusercontent.com/61832185/209123493-97c5a17e-db8a-47cd-a652-1aefe36faf87.png)
 
 ## <a name="troubleshooting"></a>Troubleshooting ##
 ### Path too long exception
