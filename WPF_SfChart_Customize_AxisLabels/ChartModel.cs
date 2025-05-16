@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace WPF_SfChart_Customize_AxisLabels
+﻿namespace WPF_SfChart_Customize_AxisLabels
 {
 	public class ChartModel
 	{
