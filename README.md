@@ -94,4 +94,4 @@ Step 3: Customize the axis labels using `LabelTemplate` property of the Chart ax
 
 If you are facing a path too long exception when building this example project, close Visual Studio and rename the repository to a shorter name before building the project.
 
-For more details, refer to the KB on [How to customize the appearance of axis labels in WPF Chart?](https://support.syncfusion.com/kb/article/12176/how-to-customize-the-appearance-of-axis-labels-in-wpf-chart-sfchart)
+For more details, refer to the KB on [How to customize the appearance of axis labels in WPF Chart](https://support.syncfusion.com/kb/article/12176/how-to-customize-the-appearance-of-axis-labels-in-wpf-chart-sfchart)
