@@ -1,4 +1,4 @@
-# How-to-customize-the-appearance-of-axis-labels-in-WPF-Chart
+# How to customize the appearance of axis labels in WPF Chart
 This sample demonstrate how to customize the appearance of axis labels in [WPF Chart](https://www.syncfusion.com/wpf-controls/charts).
 
 [WPF SfChart](https://help.syncfusion.com/wpf/charts/getting-started) supports customizing the appearance of the axis labels using the [LabelTemplate](https://help.syncfusion.com/cr/wpf/Syncfusion.UI.Xaml.Charts.ChartAxis.html#Syncfusion_UI_Xaml_Charts_ChartAxis_LabelTemplate) property of the Chart axis with the following steps:
