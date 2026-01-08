@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.3.32901.215
+VisualStudioVersion = 17.12.35527.113 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_SfChart_Customize_AxisLabels", "WPF_SfChart_Customize_AxisLabels.csproj", "{4B433844-7F92-46D6-BD0A-16C4CB0D1FCE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_SfChart_Customize_AxisLabels", "WPF_SfChart_Customize_AxisLabels.csproj", "{BE282803-4657-40F0-81D5-4F1272FC977E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,12 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4B433844-7F92-46D6-BD0A-16C4CB0D1FCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4B433844-7F92-46D6-BD0A-16C4CB0D1FCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4B433844-7F92-46D6-BD0A-16C4CB0D1FCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4B433844-7F92-46D6-BD0A-16C4CB0D1FCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE282803-4657-40F0-81D5-4F1272FC977E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE282803-4657-40F0-81D5-4F1272FC977E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE282803-4657-40F0-81D5-4F1272FC977E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE282803-4657-40F0-81D5-4F1272FC977E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {0AB567C4-C8D4-43CB-9ED0-B79016859804}
 	EndGlobalSection
 EndGlobal
